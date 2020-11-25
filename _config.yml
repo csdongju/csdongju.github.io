@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
+  name: SeRa
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -24,11 +24,15 @@ plainwhite:
     #- home
     - page
     - post
+  Navigation:
+    - Artifact Intelligence
+    -
+    -
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  csdongju
+    #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
