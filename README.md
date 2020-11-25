@@ -1,5 +1,5 @@
 # SeRa's Blog
-### Informations
+## Informations
 - 블로그 생성일 : 2020.11.25
 - Jekyll Themes: plainwhite
 
