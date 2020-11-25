@@ -1,1 +1,3 @@
-# csdongju.github.io
+# SeRa's Blog
+### Informations
+- Jekyll Themes: plainwhite
