@@ -28,7 +28,7 @@ plainwhite:
     - title: Artifact Intelligence
       url: "/ai"
     - title: TEST
-      Url: "/test"
+      url: "/test"
   # generate social links in footer
   social_links:
     #twitter: samarsault
