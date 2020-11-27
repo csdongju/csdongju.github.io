@@ -2,7 +2,8 @@
 layout: post
 title:  "Perceptron 퍼셉트론"
 date:   2020-11-27 00:00:00 +0530
-categories: AI DeepLearning
+categories: Deeplearning
+tags: perceptron
 ---
 - 프랑크 로젠 블라트가 1957년에 고안한 알고리즘
 
@@ -16,7 +17,7 @@ categories: AI DeepLearning
 
 - 기계학습 문제는 이 매개변수의 값을 정하는 작업을 컴퓨터가 자동으로 하도록 함
 
-- **학습** 이란 적절한 매개변수 값을 정하는 작업
+- **학습** 이란 적절한 매개변수 값을 정하는 작업 
 
 - 사람은 퍼센트론의 구조(모델)을 고민하고 컴퓨터에 학습할 데이터를 주는 일이다.
 

@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"    : "Perceptron 퍼셉트론",
+      "title-lower"    : "perceptron 퍼셉트론",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "Deeplearning",
+      "tags"     : "perceptron",
+      "url"      : "/deeplearning/2020/11/27/perceptron.html",
+      "date"     : "2020-11-27 03:30:00 +0900",
+      "content"     : "      프랑크 로젠 블라트가 1957년에 고안한 알고리즘        다수의 입력, 하나의 출력        뉴런에서 보내온 신호의 총합이 정해진 한계를 넘어설 때, 1을 출력          이를 뉴런이 활성화 한다 라 표현하기도 한다.            퍼셉트론에서 매개 변수 값을 정하는 것은 컴퓨터가 아니라 인간이다.        기계학습 ..."
+    } ,
+  
+    {
+      "title"    : "Integrating razorpay into your webapp",
+      "title-lower"    : "integrating razorpay into your webapp",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "JavascriptNodeJS",
+      "tags"     : "",
+      "url"      : "/javascript/nodejs/2019/03/24/welcome-to-jekyll.html",
+      "date"     : "2019-03-24 00:33:36 +0900",
+      "content"     : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ..."
+    } 
+  
+]
