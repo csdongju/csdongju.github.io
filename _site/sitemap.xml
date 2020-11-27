@@ -5,16 +5,16 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>http://localhost:4000</loc>
-	    <lastmod>2020-11-27T15:47:48+09:00</lastmod>
+            <loc></loc>
+	    <lastmod>2020-11-27T20:05:23+09:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://localhost:4000/deeplearning/2020/11/27/perceptron.html</loc>
+                <loc>/deeplearning/2020/11/27/perceptron.html</loc>
                 <lastmod>2020-11-27T03:30:00+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/javascript/nodejs/2019/03/24/welcome-to-jekyll.html</loc>
+                <loc>/javascript/nodejs/2019/03/24/welcome-to-jekyll.html</loc>
                 <lastmod>2019-03-24T00:33:36+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
