@@ -24,10 +24,11 @@ plainwhite:
     #- home
     - page
     - post
-  Navigation:
-    - Artifact Intelligence
-    -
-    -
+  navigation:
+    - title: Artifact Intelligence
+      url: "/ai"
+    - title: TEST
+      Url: "/test"
   # generate social links in footer
   social_links:
     #twitter: samarsault
