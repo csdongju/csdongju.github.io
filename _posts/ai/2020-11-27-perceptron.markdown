@@ -2,9 +2,8 @@
 layout: post
 title:  "Perceptron 퍼셉트론"
 date:   2020-11-27 00:00:00 +0530
-categories: ai deep-learning
+categories: AI DeepLearning
 ---
-퍼셉트론 Perceptron
 - 프랑크 로젠 블라트가 1957년에 고안한 알고리즘
 
 - 다수의 입력, 하나의 출력
@@ -13,7 +12,7 @@ categories: ai deep-learning
 
   - 이를 **뉴런이 활성화** 한다 라 표현하기도 한다.
 
-- 퍼셉트론에서 매개 변수 값을 정하는 것은 컴퓨터가 아니라 인간이다.
+- 퍼셉트론에서 매개 변수 값을 정하는 것은 컴퓨터가 아니라 **인간**이다.
 
 - 기계학습 문제는 이 매개변수의 값을 정하는 작업을 컴퓨터가 자동으로 하도록 함
 
