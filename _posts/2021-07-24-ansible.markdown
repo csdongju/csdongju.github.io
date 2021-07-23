@@ -11,8 +11,8 @@ tags: ansible, IaC
 
 ### 환경 구성 자동화 도구
 - 다수의 서버들이 동시에 동일한 환경을 배포해야 하는 상황에서는 Bash 쉘 스크립트는 한계가 있음
-- 이를 극복하기 위해 **Infrastructure as a Code**라는 개념이 생김
-- Infrastructure as a Code의 개념은 다수의 서버의 환경의 배포과 구성을 규격화된 코드로 정의해 사용하는 것
+- 이를 극복하기 위해 **Infrastructure as Code**라는 개념이 생김
+- Infrastructure as Code의 개념은 다수의 서버의 환경의 배포과 구성을 규격화된 코드로 정의해 사용하는 것
 - 인프라의 상태를 코드로 선언하고 이를 모든 서버에 배포함으로써 특정 환경을 동일하게 유지
 
 
