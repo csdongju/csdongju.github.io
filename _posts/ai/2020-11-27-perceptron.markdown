@@ -2,7 +2,7 @@
 layout: post
 title:  "Perceptron 퍼셉트론"
 date:   2020-11-27 00:00:00 +0530
-categories: Deeplearning
+categories: Deep learning Basics
 tags: perceptron
 ---
 - 프랑크 로젠 블라트가 1957년에 고안한 알고리즘
